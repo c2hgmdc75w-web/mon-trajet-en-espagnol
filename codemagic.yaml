@@ -24,6 +24,12 @@ workflows:
         script: |
           npx cap add ios || true
           npx cap sync ios
+      - name: Set iOS Deployment Target to 15.0
+        script: |
+          # Apple impose iOS 15.0 minimum à partir d'avril 2027 (ITMS-90068).
+          # Le dossier ios/ est régénéré à chaque build, donc on le corrige ici.
+          sed -i '' "s/platform :ios, '[0-9.]*'/platform :ios, '15.0'/" ios/App/Podfile
+          sed -i '' "s/IPHONEOS_DEPLOYMENT_TARGET = [0-9.]*;/IPHONEOS_DEPLOYMENT_TARGET = 15.0;/g" ios/App/App.xcodeproj/project.pbxproj
       - name: Declare export compliance (ITSAppUsesNonExemptEncryption)
         script: |
           # Le dossier ios/ est généré à chaque build : on ajoute la clé ici.
