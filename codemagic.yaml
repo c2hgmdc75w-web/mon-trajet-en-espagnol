@@ -7,8 +7,10 @@ workflows:
       app_store_connect: codemagic_ios_key
     environment:
       ios_signing:
-        distribution_type: app_store
-        bundle_identifier: com.tonstudio.montrajet.espagnol
+        provisioning_profiles:
+          - mon_trajet_espagnol_app_store
+        certificates:
+          - iOS Distribution
       vars:
         XCODE_WORKSPACE: "ios/App/App.xcworkspace"
         XCODE_SCHEME: "App"
