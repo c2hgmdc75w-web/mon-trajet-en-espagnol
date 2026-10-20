@@ -384,7 +384,7 @@ const level1Module2Lessons = [
     {fr:"J'ai trouvé, merci !", es:"¡Ya lo he encontrado, gracias!"}
   ]},
   { title:"Prendre le train", phrases:[
-    {fr:"Un billet pour Boston, s'il vous plaît.", es:"Un billete para Boston, por favor."},
+    {fr:"Un billet pour Séville, s'il vous plaît.", es:"Un billete para Sevilla, por favor."},
     {fr:"Aller simple ou aller-retour ?", es:"¿Ida o ida y vuelta?"},
     {fr:"À quel quai part le train ?", es:"¿De qué andén sale el tren?"},
     {fr:"Le train a du retard.", es:"El tren lleva retraso."},
@@ -1915,7 +1915,7 @@ const level3Module1Lessons = [
     {fr:"Chaque situation du quotidien devient une occasion de progresser.", es:"Cada situación cotidiana se convierte en una ocasión para progresar."},
     {fr:"Si tu es arrivé jusqu'ici, c'est que tu as fait d'énormes progrès.", es:"Si has llegado hasta aquí, es que has hecho enormes progresos."},
     {fr:"N'hésite pas à revenir sur ces leçons autant que nécessaire.", es:"No dudes en repasar estas lecciones tantas veces como necesites."},
-    {fr:"Le niveau 3 commence vraiment à ressembler à de l'anglais courant.", es:"El nivel 3 realmente empieza a parecerse al español fluido."},
+    {fr:"Le niveau 3 commence vraiment à ressembler à de l'espagnol courant.", es:"El nivel 3 realmente empieza a parecerse al español fluido."},
     {fr:"Bravo, tu as terminé le module « Le quotidien » du niveau 3 !", es:"¡Enhorabuena, has terminado el módulo «La vida diaria» del nivel 3!"},
     {fr:"Deux autres modules t'attendent pour continuer sur ta lancée.", es:"Te esperan otros dos módulos para seguir avanzando."},
     {fr:"On se retrouve très vite pour la suite.", es:"Nos vemos muy pronto para continuar."}
@@ -1984,7 +1984,7 @@ const level3Module2Lessons = [
     {fr:"L'ambassade a été contactée dès que la situation est devenue claire.", es:"Se contactó con la embajada en cuanto la situación se aclaró."},
     {fr:"Assis dans la salle d'attente, on essayait de rester calmes malgré tout.", es:"Sentados en la sala de espera, intentábamos mantener la calma a pesar de todo."},
     {fr:"Cette procédure est généralement suivie dans ce genre de cas.", es:"Este procedimiento normalmente se sigue en este tipo de casos."},
-    {fr:"Si personne ne parlait anglais, on aurait vraiment été perdus.", es:"Si nadie hubiera hablado español, habríamos estado realmente perdidos."},
+    {fr:"Si personne ne parlait espagnol, on aurait vraiment été perdus.", es:"Si nadie hubiera hablado español, habríamos estado realmente perdidos."},
     {fr:"Heureusement, un interprète nous a été fourni assez rapidement.", es:"Por suerte, nos facilitaron un intérprete bastante rápido."},
     {fr:"Agissant vite, on a réussi à régler le problème en une journée.", es:"Actuando con rapidez, conseguimos resolver el problema en un día."},
     {fr:"Ce genre d'expérience teste vraiment les nerfs.", es:"Este tipo de experiencia pone los nervios a prueba de verdad."},
@@ -2108,11 +2108,11 @@ const level3Module2Lessons = [
     {fr:"On est officiellement dans un tout nouveau pays, et ça se sent immédiatement.", es:"Oficialmente estamos en un país completamente nuevo, y se nota de inmediato."}
   ]},
  { title:"Apprendre quelques mots de la langue locale", phrases:[
-    {fr:"Si je n'avais appris que l'anglais, je serais passé à côté de tant de choses.", es:"Si solo hubiera aprendido español, me habría perdido tantas cosas."},
+    {fr:"Si je n'avais appris que l'espagnol, je serais passé à côté de tant de choses.", es:"Si solo hubiera aprendido español, me habría perdido tantas cosas."},
     {fr:"Ces quelques phrases m'ont été enseignées par un ami avant le départ.", es:"Un amigo me enseñó estas pocas frases antes de salir."},
     {fr:"Essayant maladroitement de parler la langue, les gens souriaient immédiatement.", es:"Intentando torpemente hablar el idioma, la gente sonreía de inmediato."},
     {fr:"Ce simple effort est toujours perçu comme un signe de respect.", es:"Este simple esfuerzo siempre se percibe como una señal de respeto."},
-    {fr:"Si je m'étais limité à l'anglais, les échanges auraient été bien plus froids.", es:"Si me hubiera limitado a mi propio idioma, los intercambios habrían sido mucho más fríos."},
+    {fr:"Si je m'étais limité à ma langue maternelle, les échanges auraient été bien plus froids.", es:"Si me hubiera limitado a mi propio idioma, los intercambios habrían sido mucho más fríos."},
     {fr:"Certains mots sont plus difficiles à prononcer correctement que d'autres.", es:"Algunas palabras son más difíciles de pronunciar bien que otras."},
     {fr:"Riant de mes propres erreurs, j'ai fini par apprendre encore plus vite.", es:"Riéndome de mis propios errores, acabé aprendiendo todavía más rápido."},
     {fr:"Même quelques mots suffisent à transformer complètement une rencontre.", es:"Incluso unas pocas palabras bastan para transformar por completo un encuentro."},
@@ -2175,7 +2175,7 @@ const level3Module2Lessons = [
     {fr:"Ce module nous a appris à raconter nos expériences avec plus de nuance.", es:"Este módulo nos ha enseñado a contar nuestras experiencias con más matices."},
     {fr:"Si on avait commencé ce niveau sans les deux précédents, ça aurait été bien plus difficile.", es:"Si hubiéramos empezado este nivel sin los dos anteriores, habría sido mucho más difícil."},
     {fr:"Ces structures complexes deviennent naturelles avec de la pratique régulière.", es:"Estas estructuras complejas se vuelven naturales con práctica regular."},
-    {fr:"Chaque leçon nous rapproche un peu plus d'un anglais vraiment fluide.", es:"Cada lección nos acerca un poco más a un español realmente fluido."},
+    {fr:"Chaque leçon nous rapproche un peu plus d'un espagnol vraiment fluide.", es:"Cada lección nos acerca un poco más a un español realmente fluido."},
     {fr:"Rarement un module n'aura couvert autant de situations de voyage réelles.", es:"Pocas veces un módulo habrá cubierto tantas situaciones de viaje reales."},
     {fr:"Si tu es arrivé jusqu'ici, continue, la fin est proche.", es:"Si has llegado hasta aquí, sigue así, el final está cerca."},
     {fr:"Ce vocabulaire te sera utile pour absolument tous tes futurs voyages.", es:"Este vocabulario te será útil para absolutamente todos tus futuros viajes."},
@@ -2439,12 +2439,12 @@ const level3Module3Lessons = [
     {fr:"Rares sont les apprenants qui atteignent un tel niveau de précision.", es:"Son pocos los estudiantes que alcanzan tal nivel de precisión."},
     {fr:"Ces structures, aussi complexes soient-elles, deviendront naturelles avec le temps.", es:"Estas estructuras, por complejas que sean, se volverán naturales con el tiempo."},
     {fr:"Tu es désormais capable de t'exprimer avec une grande richesse de vocabulaire.", es:"Ahora eres capaz de expresarte con una gran riqueza de vocabulario."},
-    {fr:"Ayant terminé ce niveau, tu maîtrises une large partie de l'anglais courant.", es:"Habiendo terminado este nivel, dominas una gran parte del español corriente."},
+    {fr:"Ayant terminé ce niveau, tu maîtrises une large partie de l'espagnol courant.", es:"Habiendo terminado este nivel, dominas una gran parte del español corriente."},
     {fr:"Fût ce parcours long, chaque étape en valait vraiment la peine.", es:"Aunque este recorrido haya sido largo, cada etapa mereció realmente la pena."},
     {fr:"Félicitations pour être arrivé jusqu'à la toute fin de ce niveau 3.", es:"Enhorabuena por haber llegado hasta el final mismo de este nivel 3."},
     {fr:"Bravo, tu as terminé le module « Conversation sociale » du niveau 3 !", es:"¡Enhorabuena, has terminado el módulo «Conversación social» del nivel 3!"},
     {fr:"Les trois niveaux sont désormais entièrement terminés.", es:"Los tres niveles están ahora completamente terminados."},
-    {fr:"Continue à pratiquer, l'anglais fait désormais partie de toi.", es:"Sigue practicando, el español ya forma parte de ti."}
+    {fr:"Continue à pratiquer, l'espagnol fait désormais partie de toi.", es:"Sigue practicando, el español ya forma parte de ti."}
   ]}
 ];
 
