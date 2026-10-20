@@ -28,8 +28,8 @@ const ICONS = {
    ============================================================ */
 
 const level1Module1Lessons = [
-  { title:"Bienvenue en Amérique", phrases:[
-    {fr:"Bienvenue aux États-Unis !", es:"¡Bienvenido a Estados Unidos!"},
+  { title:"Bienvenue en Espagne", phrases:[
+    {fr:"Bienvenue en Espagne !", es:"¡Bienvenido a España!"},
     {fr:"J'ai réservé une voiture.", es:"He reservado un coche."},
     {fr:"Voici mon passeport.", es:"Aquí tiene mi pasaporte."},
     {fr:"Combien de temps restez-vous ?", es:"¿Cuánto tiempo se queda?"},
@@ -40,56 +40,56 @@ const level1Module1Lessons = [
     {fr:"Profitez de votre séjour !", es:"¡Disfrute de su estancia!"},
     {fr:"Merci, à vous aussi.", es:"Gracias, igualmente."}
   ]},
-  { title:"Sur la Route 66", phrases:[
-    {fr:"On prend la Route 66 ?", es:"¿Tomamos la Ruta 66?"},
+  { title:"Sur la route de Barcelone", phrases:[
+    {fr:"On prend l'autoroute vers Valence ?", es:"¿Cogemos la autopista hacia Valencia?"},
     {fr:"Il faut faire le plein d'essence.", es:"Hay que llenar el depósito de gasolina."},
     {fr:"La prochaine station-service est loin ?", es:"¿Está lejos la próxima gasolinera?"},
-    {fr:"Tournez à gauche après le pont.", es:"Gire a la izquierda después del puente."},
-    {fr:"La route est magnifique.", es:"La carretera es preciosa."},
-    {fr:"On roule vers l'ouest.", es:"Vamos conduciendo hacia el oeste."},
-    {fr:"Il y a un panneau \"bienvenue en Arizona\".", es:"Hay un cartel que dice \"bienvenido a Arizona\"."},
-    {fr:"Le désert s'étend à perte de vue.", es:"El desierto se extiende hasta donde alcanza la vista."},
+    {fr:"Tournez à gauche après le rond-point.", es:"Gire a la izquierda después de la rotonda."},
+    {fr:"La route longe la côte, c'est magnifique.", es:"La carretera bordea la costa, es preciosa."},
+    {fr:"On roule vers le sud.", es:"Vamos conduciendo hacia el sur."},
+    {fr:"Il y a un panneau \"bienvenue en Catalogne\".", es:"Hay un cartel que dice \"bienvenido a Cataluña\"."},
+    {fr:"Les champs d'oliviers s'étendent à perte de vue.", es:"Los olivares se extienden hasta donde alcanza la vista."},
     {fr:"On s'arrête pour prendre une photo ?", es:"¿Paramos para hacer una foto?"},
-    {fr:"Le coucher de soleil est incroyable.", es:"La puesta de sol es increíble."}
+    {fr:"Le coucher de soleil sur la mer est incroyable.", es:"La puesta de sol sobre el mar es increíble."}
   ]},
-  { title:"Le diner américain", phrases:[
+  { title:"Un bar à tapas", phrases:[
     {fr:"Une table pour deux, s'il vous plaît.", es:"Una mesa para dos, por favor."},
     {fr:"Qu'est-ce que vous recommandez ?", es:"¿Qué nos recomienda?"},
-    {fr:"Je voudrais des pancakes.", es:"Quisiera unos pancakes."},
-    {fr:"Avec du sirop d'érable, s'il vous plaît.", es:"Con sirope de arce, por favor."},
-    {fr:"Vous avez du pudding au chocolat ?", es:"¿Tienen pudin de chocolate?"},
+    {fr:"Je voudrais des tapas variées.", es:"Quisiera unas tapas variadas."},
+    {fr:"Avec de l'huile d'olive, s'il vous plaît.", es:"Con aceite de oliva, por favor."},
+    {fr:"Vous avez de la tortilla espagnole ?", es:"¿Tienen tortilla española?"},
     {fr:"L'addition, s'il vous plaît.", es:"La cuenta, por favor."},
     {fr:"C'est délicieux.", es:"Está delicioso."},
     {fr:"Je meurs de faim.", es:"Me muero de hambre."},
-    {fr:"On partage une part de tarte aux pommes ?", es:"¿Compartimos un trozo de tarta de manzana?"},
+    {fr:"On partage une crème catalane ?", es:"¿Compartimos una crema catalana?"},
     {fr:"Le service était excellent.", es:"El servicio fue excelente."}
   ], tip:{
     title:"« Quisiera » : la forma educada de pedir algo",
-    example:"Je voudrais des pancakes. — <b>Quisiera</b> unos pancakes.",
+    example:"Je voudrais des tapas variées. — <b>Quisiera</b> unas tapas variadas.",
     body:"« Quisiera » (de « querer ») es la forma más cortés de pedir algo, equivalente a « je voudrais » en francés. Es más educado que « quiero », igual que en francés « je voudrais » es más educado que « je veux »."
   }},
-  { title:"Direction l'Arizona", phrases:[
-    {fr:"Le Grand Canyon est juste devant nous.", es:"El Gran Cañón está justo delante de nosotros."},
+  { title:"L'Alhambra de Grenade", phrases:[
+    {fr:"L'Alhambra est juste devant nous.", es:"La Alhambra está justo delante de nosotros."},
     {fr:"C'est plus grand que je ne l'imaginais.", es:"Es más grande de lo que imaginaba."},
-    {fr:"Fais attention au bord.", es:"Ten cuidado con el borde."},
+    {fr:"Fais attention à la marche.", es:"Ten cuidado con el escalón."},
     {fr:"Il fait très chaud aujourd'hui.", es:"Hace mucho calor hoy."},
     {fr:"N'oublie pas de boire de l'eau.", es:"No olvides beber agua."},
-    {fr:"On peut faire une randonnée ?", es:"¿Podemos hacer una excursión a pie?"},
-    {fr:"Le sentier est assez difficile.", es:"El sendero es bastante difícil."},
-    {fr:"Regarde ce cactus énorme !", es:"¡Mira ese cactus enorme!"},
+    {fr:"On peut faire une visite guidée ?", es:"¿Podemos hacer una visita guiada?"},
+    {fr:"La file d'attente est assez longue.", es:"La cola es bastante larga."},
+    {fr:"Regarde ces jardins !", es:"¡Mira esos jardines!"},
     {fr:"Le ciel est complètement dégagé.", es:"El cielo está completamente despejado."},
     {fr:"Cet endroit est magique.", es:"Este lugar es mágico."}
   ]},
-  { title:"Soirée à la belle étoile", phrases:[
-    {fr:"On installe le camp ici.", es:"Montamos el campamento aquí."},
-    {fr:"Peux-tu allumer le feu ?", es:"¿Puedes encender el fuego?"},
+  { title:"Une nuit de flamenco", phrases:[
+    {fr:"On s'installe au premier rang.", es:"Nos sentamos en primera fila."},
+    {fr:"Peux-tu nous commander à boire ?", es:"¿Puedes pedirnos algo de beber?"},
     {fr:"Il commence à faire froid.", es:"Está empezando a hacer frío."},
-    {fr:"Regarde toutes ces étoiles.", es:"Mira todas esas estrellas."},
-    {fr:"On dirait la Voie lactée.", es:"Parece la Vía Láctea."},
-    {fr:"Raconte-moi une histoire.", es:"Cuéntame una historia."},
-    {fr:"J'entends un coyote au loin.", es:"Oigo un coyote a lo lejos."},
+    {fr:"Regarde comme ils dansent, c'est impressionnant.", es:"Mira cómo bailan, es impresionante."},
+    {fr:"Le chanteur a une voix incroyable.", es:"El cantaor tiene una voz increíble."},
+    {fr:"Raconte-moi comment le flamenco est né.", es:"Cuéntame cómo empezó el flamenco."},
+    {fr:"On entend les applaudissements rythmés dans toute la salle.", es:"Se oyen las palmas por toda la sala."},
     {fr:"Ce voyage restera gravé dans ma mémoire.", es:"Este viaje quedará grabado en mi memoria."},
-    {fr:"Demain, on continue vers la Californie.", es:"Mañana seguimos hacia California."},
+    {fr:"Demain, on continue vers Madrid.", es:"Mañana seguimos hacia Madrid."},
     {fr:"Bonne nuit, dors bien.", es:"Buenas noches, que duermas bien."}
   ]},
   { title:"Achats et shopping", phrases:[
@@ -152,7 +152,7 @@ const level1Module1Lessons = [
     {fr:"Comment se passe ton séjour ?", es:"¿Qué tal va tu estancia?"},
     {fr:"Ça se passe très bien, merci.", es:"Va muy bien, gracias."},
     {fr:"Qu'est-ce que tu as préféré ?", es:"¿Qué es lo que más te ha gustado?"},
-    {fr:"J'ai adoré le Grand Canyon.", es:"Me encantó el Gran Cañón."},
+    {fr:"J'ai adoré l'Alhambra.", es:"Me encantó la Alhambra."},
     {fr:"On devrait revenir un jour.", es:"Deberíamos volver algún día."},
     {fr:"Je suis fatigué mais heureux.", es:"Estoy cansado pero feliz."},
     {fr:"C'était un super voyage.", es:"Fue un viaje genial."},
@@ -820,7 +820,7 @@ const level1Module3Lessons = [
 const LEVEL1_MODULES = [
   {
     id:1, name:"Le quotidien",
-    desc:"Un road trip aux États-Unis pour démarrer, puis les phrases du quotidien.",
+    desc:"Un road trip en Espagne pour démarrer, puis les phrases du quotidien.",
     totalPhrases:200, lessonsCount:20,
     lessons: level1Module1Lessons
   },

@@ -75,7 +75,8 @@ Aucune autre modification du moteur (`app.js`) n'est nécessaire — il lit déj
   synthèse vocale en cours.
 - **Les 3 modules sont entièrement rédigés — 60 leçons, 600 phrases** :
   - Module 1 « Le quotidien » (200 phrases) : leçons 1-10 gratuites (dont 5
-    en immersion road trip USA), leçons 11-20 payantes.
+    en immersion road trip Espagne — Barcelone, l'Alhambra de Grenade),
+    leçons 11-20 payantes.
   - Module 2 « En voyage » (200 phrases, payant) : aéroport, transports,
     hôtel, tourisme, argent, urgences, rencontres.
   - Module 3 « Conversation sociale » (200 phrases, payant) : se présenter,
